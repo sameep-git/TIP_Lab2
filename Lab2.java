@@ -1,3 +1,14 @@
+/********************************************************/
+/*	Program Name:		Lab1.java		*/
+/*							*/
+/*	Student Name:		Sameep Shah		*/
+/*	Semester:			Spring 2023	*/
+/*	Class Section:	    COSC20203-055		*/
+/*	Instructor:			Dr. Rinewalt	*/
+/*							*/
+/*	Program Overview:	Lab #2			*/
+/********************************************************/
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.io.*;
